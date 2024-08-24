@@ -22,8 +22,14 @@
 </p>
 
 <h3 align="center">Социальные сети</h3>
-<div display="flex" justify-content="center" align-items="center">
-    <a text-decoration="none" color="white" href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
+<div styles='
+    display = "flex"
+    justify-content = "center"
+    align-items = "center"
+    text-decoration = "none"
+    color = "white"
+'>
+    <a href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
         Bottomless Hat <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
     <a text-decoration="none" color="white" href="https://discord.gg/5MJrRjzPec" title="Discord-TheVoid">
