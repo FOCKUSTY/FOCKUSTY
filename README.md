@@ -21,6 +21,17 @@
     </span>
 </p>
 
+<h3 align="center">Социальные сети</h3>
+<p text-align="center">
+
+[Discord-TheVoid](https://discord.gg/5MJrRjzPec)
+[Telegram](https://t.me/BottomlessHat)
+[VK](https://vk.com/fockusty)
+
+[Discord-BottomlessHat](https://discord.gg/pw8HgBs2yE)
+
+</p>
+
 <hr>
 
 <h3 align="center">Статы</h3>
