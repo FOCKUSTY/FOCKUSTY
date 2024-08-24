@@ -22,24 +22,18 @@
 </p>
 
 <h3 align="center">Социальные сети</h3>
-<div styles='
-    display = "flex"
-    justify-content = "center"
-    align-items = "center"
-    text-decoration = "none"
-    color = "white"
-'>
+<div align="center">
     <a href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
-        Bottomless Hat <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
+        Bottomless Hat <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
-    <a text-decoration="none" color="white" href="https://discord.gg/5MJrRjzPec" title="Discord-TheVoid">
-        The Void <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
+    <a href="https://discord.gg/5MJrRjzPec" title="Discord-TheVoid">
+        The Void <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
-    <a text-decoration="none" color="white" href="https://t.me/BottomlessHat" title="Telegram">
-        FOCKUSTY <img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px">
+    <a href="https://t.me/BottomlessHat" title="Telegram">
+        FOCKUSTY <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px">
     </a>
-    <a text-decoration="none" color="white" href="https://vk.com/fockusty" title="VK">
-        FOCKUSTY <img src="./assets/img/vk.svg" alt="Telegram" width="50px" height="50px">
+    <a href="https://vk.com/fockusty" title="VK">
+        FOCKUSTY <img align="center" src="./assets/img/vk.svg" alt="Telegram" width="50px" height="50px">
     </a>
 </div>
 
