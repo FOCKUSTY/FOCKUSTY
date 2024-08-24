@@ -1,8 +1,6 @@
 <h1 align="center">FOCKUSTY</h1>
 
-<picture>
-    <img align="center" src="./assets/img/TheVoid.Banner.png">
-</picture>
+![banner](./assets/img/TheVoid.Banner.png)
 
 <h2 align="center">Обо мне</h2>
 <p text-align="center">
@@ -13,22 +11,30 @@
 
 <h3 align="center">Статы</h3>
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOCKUSTY&theme=dark)
 
+</div>
+
 <hr>
 
 <h3 align="center">Топ языков</h3>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 <hr>
 
 <h3 align="center">Стрик</h3>
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
+</div>
 <h2 align="center">Скилы</h2>
 
 <h3 align="center">Хорошо знаю:</h3>
@@ -101,6 +107,4 @@
     <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="50px" height="50px"></a>
 </div>
 
-<picture align="center">
-    <img src="./assets/img/TheVoid.TALL.jpg.png">
-</picture>
+![banner](./assets/img/TheVoid.TALL.jpg.png)
