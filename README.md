@@ -25,24 +25,24 @@
 <div align="center">
     <img src="./assets/img/Discord-BottomlessHat.svg" alt="Discord">
 </div>
-<!-- <div align="center">
+<div align="center">
+    Bottomless Hat
     <a align="center" href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
-        Bottomless Hat
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
+    The Void
     <a align="center" href="https://discord.gg/5MJrRjzPec" title="Discord-TheVoid">
-        The Void
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
+    FOCKUSTY
     <a align="center" href="https://t.me/BottomlessHat" title="Telegram">
-        FOCKUSTY
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px">
     </a>
+    FOCKUSTY
     <a align="center" href="https://vk.com/fockusty" title="VK">
-        FOCKUSTY
         <img align="center" src="./assets/img/vk.svg" alt="Telegram" width="50px" height="50px">
     </a>
-</div> -->
+</div>
 
 <hr>
 
