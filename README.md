@@ -1,7 +1,7 @@
 <h1 align="center">FOCKUSTY</h1>
 
-<picture align="center">
-    <img src="./assets/img/TheVoid.Banner.png">
+<picture>
+    <img align="center" src="./assets/img/TheVoid.Banner.png">
 </picture>
 
 <h2 align="center">Обо мне</h2>
@@ -12,6 +12,7 @@
 <hr>
 
 <h3 align="center">Статы</h3>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOCKUSTY&theme=dark)
@@ -19,11 +20,13 @@
 <hr>
 
 <h3 align="center">Топ языков</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
 <h3 align="center">Стрик</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 <h2 align="center">Скилы</h2>
