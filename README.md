@@ -22,10 +22,7 @@
 </p>
 
 <h3 align="center">Социальные сети</h3>
-<div align="center">
-    <img src="./assets/img/Discord-BottomlessHat.svg" alt="Discord">
-</div>
-<div align="center">
+<div align="center" direction="collumn">
     Bottomless Hat
     <a align="center" href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
