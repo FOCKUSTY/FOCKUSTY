@@ -17,13 +17,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOCKUSTY&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FOCKUSTY&theme=dark&utcOffset=8)
 
 <hr>
 
 ### Топ языков
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
@@ -80,3 +79,7 @@
 
 ### В будущем:
 <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="50px" height="50px"></a>
+
+<picture>
+    <img src="./assets/img/TheVoid.TALL.jpg.png">
+</picture>
