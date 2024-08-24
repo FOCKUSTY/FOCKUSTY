@@ -119,6 +119,8 @@
     <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="50px" height="50px"></a>
 </div>
 
+<hr>
+
 <div align="center">
 
 ![banner](./assets/img/TheVoid.TALL.jpg.png)
