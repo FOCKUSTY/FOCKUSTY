@@ -24,16 +24,16 @@
 <h3 align="center">Социальные сети</h3>
 <p text-align="center">
     <a href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
-        <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
+        Bottomless Hat <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
     <a href="https://discord.gg/5MJrRjzPec" title="Discord-TheVoid">
-        <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
+        The Void <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
     <a href="https://t.me/BottomlessHat" title="Telegram">
-        <img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px">
+        FOCKUSTY <img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px">
     </a>
     <a href="https://vk.com/fockusty" title="VK">
-        <img src="./assets/img/vk.svg" alt="Telegram" width="50px" height="50px">
+        FOCKUSTY <img src="./assets/img/vk.svg" alt="Telegram" width="50px" height="50px">
     </a>
 </p>
 
