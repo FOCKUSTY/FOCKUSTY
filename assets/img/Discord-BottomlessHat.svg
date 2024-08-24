@@ -7,7 +7,7 @@
             }
         </style>
 
-        <div>
+        <div xmlns="http://www.w3.org/1999/xhtml">
             <span>Bottomless Hat</span>
             <a href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
                 <img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">

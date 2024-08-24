@@ -46,7 +46,7 @@
 
 <hr>
 
-<h3 align="center">Статы</h3>
+<h3 align=" center">Статы</h3>
 
 <div align="center">
 
