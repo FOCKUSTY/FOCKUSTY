@@ -22,20 +22,20 @@
 </p>
 
 <h3 align="center">Социальные сети</h3>
-<div align="center" direction="collumn">
-    Bottomless Hat
+<div align="center">
+    <h4 align="center">Bottomless Hat</h4>
     <a align="center" href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
-    The Void
+    <h4 align="center">The Void</h4>
     <a align="center" href="https://discord.gg/5MJrRjzPec" title="Discord-TheVoid">
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
-    FOCKUSTY
+    <h4 align="center">FOCKUSTY</h4>
     <a align="center" href="https://t.me/BottomlessHat" title="Telegram">
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px">
     </a>
-    FOCKUSTY
+    <h4 align="center">FOCKUSTY</h4>
     <a align="center" href="https://vk.com/fockusty" title="VK">
         <img align="center" src="./assets/img/vk.svg" alt="Telegram" width="50px" height="50px">
     </a>
@@ -43,7 +43,7 @@
 
 <hr>
 
-<h3 align=" center">Статы</h3>
+<h3 align="center">Статы</h3>
 
 <div align="center">
 
