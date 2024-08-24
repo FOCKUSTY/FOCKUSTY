@@ -23,20 +23,20 @@
 
 <h3 align="center">Социальные сети</h3>
 <div align="center">
-    <h4 align="center">Bottomless Hat</h4>
     <a align="center" href="https://discord.gg/pw8HgBs2yE" title="Discord-BottomlessHat">
+        <h4 align="center">Bottomless Hat</h4>
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
-    <h4 align="center">The Void</h4>
     <a align="center" href="https://discord.gg/5MJrRjzPec" title="Discord-TheVoid">
+        <h4 align="center">The Void</h4>
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px">
     </a>
-    <h4 align="center">FOCKUSTY</h4>
     <a align="center" href="https://t.me/BottomlessHat" title="Telegram">
+        <h4 align="center">FOCKUSTY</h4>
         <img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px">
     </a>
-    <h4 align="center">FOCKUSTY</h4>
     <a align="center" href="https://vk.com/fockusty" title="VK">
+        <h4 align="center">FOCKUSTY</h4>
         <img align="center" src="./assets/img/vk.svg" alt="Telegram" width="50px" height="50px">
     </a>
 </div>
