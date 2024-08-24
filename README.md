@@ -2,13 +2,21 @@
 
 <div align="center">
 
-    ![banner](./assets/img/TheVoid.Banner.png)
+![banner](./assets/img/TheVoid.Banner.png)
 
 </div>
 
 <h2 align="center">Обо мне</h2>
 <p text-align="center">
-    Меня зовут, на август 2024 года мне 15 лет. Почему я начал изучать программирование? Всё просто, я просто начал. По приколу, да, вот такой вот я. Мой первый язык - JavaScript, сначала я изучал html & css (Все мы знаем, что они не ЯП), а потом переключился на js. Я нашел свой интерес в программирование. Раньше я снимал видео на платформу YouTube, но мне в один момент надоело и я начал изучать веб. Я начал изучать программирование с 13 лет (2023 год в июне) 
+    <span>
+        Меня зовут, на август 2024 года мне 15 лет. Почему я начал изучать программирование? Всё просто, я просто начал, по приколу, да, вот такой вот я
+    </span>
+    <span>
+        Мой первый язык - JavaScript, сначала я изучал html & css (Все мы знаем, что они не ЯП), а потом переключился на js
+    </span>
+    <span>
+        Я нашел свой интерес в программирование. Раньше я снимал видео на платформу YouTube, но мне в один момент надоело и я начал изучать веб. Я начал изучать программирование с 13 лет (2023 год в июне) 
+    </span>
 </p>
 
 <hr>
@@ -17,9 +25,9 @@
 
 <div align="center">
 
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOCKUSTY&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOCKUSTY&theme=dark)
 
 </div>
 
@@ -28,7 +36,7 @@
 <h3 align="center">Топ языков</h3>
 <div align="center">
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <hr>
@@ -36,7 +44,7 @@
 <h3 align="center">Стрик</h3>
 <div align="center">
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 </div>
 <h2 align="center">Скилы</h2>
@@ -113,6 +121,6 @@
 
 <div align="center">
 
-    ![banner](./assets/img/TheVoid.TALL.jpg.png)
+![banner](./assets/img/TheVoid.TALL.jpg.png)
 
 </div>
