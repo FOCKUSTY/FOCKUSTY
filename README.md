@@ -136,6 +136,7 @@
 
 <h3 align="center">Дополнительно:</h3>
 <div align="center">
+    <a href="https://scratch.mit.edu/" title="Scratch"><img src="./assets/img/scratch.svg" alt="Scratch" width="50px" height="50px"></a>
     <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>
     <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="50px" height="50px"></a>
     <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
