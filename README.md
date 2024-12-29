@@ -7,10 +7,12 @@
 </div>
 
 <p text-align="center">
+<span>
 
 Russian
 [English](./langs/README.en.md)
 
+</span>
 </p>
 
 <hr />
