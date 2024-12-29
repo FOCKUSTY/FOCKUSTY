@@ -13,6 +13,8 @@ English
 
 </span>
 
+<hr />
+
 <h2 align="center">Обо мне</h2>
 <p text-align="center">
     <span>

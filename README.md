@@ -6,14 +6,12 @@
 
 </div>
 
-<p text-align="center">
-    <span>
-    Russian
-    </span>
-    <a align="center" href="./langs/README.en.md" title="Discord-BottomlessHat">
-        English
-    </a>
-</p>
+<span>
+
+Russian
+[English](./langs/README.en.md)
+
+</span>
 
 <hr />
 
