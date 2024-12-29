@@ -7,12 +7,10 @@
 </div>
 
 <p text-align="center">
-<span>
-
 Russian
-[English](./langs/README.en.md)
-
-</span>
+<a align="center" href="./langs/README.en.md" title="Discord-BottomlessHat">
+    English
+</a>
 </p>
 
 <hr />
