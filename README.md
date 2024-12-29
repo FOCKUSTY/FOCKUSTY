@@ -6,12 +6,12 @@
 
 </div>
 
-<span>
+<p text-align="center">
 
 Russian
 [English](./langs/README.en.md)
 
-</span>
+</p>
 
 <hr />
 
