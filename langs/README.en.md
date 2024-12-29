@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![banner](./assets/img/TheVoid.Banner.png)
+![banner](../assets/img/TheVoid.Banner.png)
 
 </div>
 
@@ -48,7 +48,7 @@ English
     </a>
     <h4 align="center">FOCKUSTY (ru)</h4>
     <a align="center" href="https://vk.com/fockusty" title="VK">
-        <img align="center" src="./assets/img/vk.svg" alt="VK" width="50px" height="50px">
+        <img align="center" src="../assets/img/vk.svg" alt="VK" width="50px" height="50px">
     </a>
 </div>
 
@@ -133,7 +133,7 @@ English
     <a href="https://discordapp.com/" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px"></a>
     <a href="https://telegram.org/" title="Telegram"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px"></a>
     <a href="https://www.whatsapp.com/" title="WhatsApp"><img src="https://github.com/get-icon/geticon/raw/master/icons/whatsapp.svg" alt="WhatsApp" width="50px" height="50px"></a>
-    <a href="https://vk.com/" title="VK"><img src="./assets/img/vk.svg" alt="VK" width="50px" height="50px"></a>
+    <a href="https://vk.com/" title="VK"><img src="../assets/img/vk.svg" alt="VK" width="50px" height="50px"></a>
 </div>
 
 <h3 align="center">Deploying:</h3>
