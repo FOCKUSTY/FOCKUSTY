@@ -86,7 +86,7 @@ Russian
 
 | Название | Чем является ? | Область применения (краткоя, не полноя) | Где использую я | Оценка знаний (0-10) | Название (полное, если имеется сокр.) |
 |--------------|--------------|--------------|--------------|--------------|--------------|
-| [HTML](https://www.w3.org/TR/html5/) | Разметка для страницы | Фронт | Не использую | 7/10 | HyperText Markup Language |
+| ![HTML](https://github.com/get-icon/geticon/raw/master/icons/html-5.svg) [HTML](https://www.w3.org/TR/html5/) | Разметка для страницы | Фронт | Не использую | 7/10 | HyperText Markup Language |
 | [CSS](https://www.w3.org/TR/CSS/)  | Стили для страницы | Фронт | Фронт | 6/10 |  |
 | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ЯП, интерктивность страницы | Много где | Бэк/фронт/создание библиотек | 8/10 | JavaScript |
 | [Python](https://www.python.org/) | ЯП | Много где | Не использую | 4/10 | - |
