@@ -84,26 +84,17 @@ Russian
 </div>
 <h2 align="center">Скилы</h2>
 
-<h3 align="center">Хорошо знаю:</h3>
-<div align="center">
-    <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
-    <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
-    <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
-</div>
-
-<h3 align="center">Дополнительно к знаниям:</h3>
-<div align="center">
-    <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="50px" height="50px"></a>
-    <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>
-    <a href="https://passportjs.org/" title="Passport"><img src="https://github.com/get-icon/geticon/raw/master/icons/passport.svg" alt="Passport" width="50px" height="50px"></a>
-</div>
-
-<h3 align="center">Фронт</h3>
-<div align="center">
-    <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px"></a>
-    <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="50px" height="50px"></a>
-</div>
+|--------------|--------------|--------------|--------------|--------------|--------------|
+| Название | Чем является ? | Область применения (краткоя, не полноя) | Где использую я | Оценка знаний (0-10) | Название (полное, если имеется сокр.) |
+| [HTML](https://www.w3.org/TR/html5/) | Разметка для страницы | Фронт | Не использую | 7/10 | HyperText Markup Language |
+| [CSS](https://www.w3.org/TR/CSS/)  | Стили для страницы | Фронт | Фронт | 6/10 |  |
+| [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ЯП, интерктивность страницы | Много где | Бэк/фронт/создание библиотек | 8/10 | JavaScript |
+| [Python](https://www.python.org/) | ЯП | Много где | Не использую | 4/10 | - |
+| [TS](https://www.typescriptlang.org/) | ЯП, надстройка для JS, JS с типизацией | Везде, где JS | см. ОП | 7.5/10 | TypeScript |
+| [NodeJS](https://nodejs.org/) | "Транслятор" js в двоичный код | Запуск кода JS через терминал и не только | см. ОП | 7/10 | - |
+| [Passport](https://passportjs.org/) | "Промежуточное ПО" для аутенфикации | Для аутенфикации | Бэк | 3/10 | - |
+| [React](https://reactjs.org/) | Библиотека/фреймворк | Создание UI | Фронт | 5.5/10 | - |
+| [Next.js](https://nextjs.org/") | React-фреймворк | см. React | Фронт | 5/10 | - |
 
 <h3 align="center">Бэк</h3>
 <div align="center">
