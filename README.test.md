@@ -1,6 +1,6 @@
 <h1>FOCKUSTY</h1>
 
-<div>
+<div align="center">
 
 ![banner](./assets/img/TheVoid.Banner.png)
 
@@ -14,7 +14,7 @@ Russian
 </span>
 
 <h2>Обо мне</h2>
-<p text->
+<p text-align="center">
     <span>
         Меня зовут ?????, на август 2024 года мне 15 лет. Почему я начал изучать программирование? Всё просто, я просто начал, по приколу, да, вот такой вот я
     </span>
@@ -43,7 +43,7 @@ Russian
 
 <h3>Статы</h3>
 
-<div>
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
@@ -51,17 +51,17 @@ Russian
 
 </div>
 
-<h3>Топ языков</h3>
-<div>
+<h3 align="center">Топ языков</h3>
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)
 
 </div>
 
-<h3>Стрик</h3>
-<div>
+<h3 align="center">Стрик</h3>
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)
 
 </div>
 
@@ -84,15 +84,13 @@ Russian
 
 <h4>Основа</h4>
 
-| Пакетные менеджеры                                                                                                                                                                                                  | <div align="center">-</div>                                                                                                                                                                                                     | <div align="center">-</div>                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="50px" height="50px"></a>                                                      | <a href="https://pnpm.io" title="pnpm"><img src="https://pnpm.io/assets/images/pnpm-light-477811893d2e1c4ad4b10345c442282e.svg" alt="npm" width="50px" height="50px"></a>                                                        | <a href="https://pypi.org" title="npm"><img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="pip" width="50px" height="50px"></a>                               |
-| **Другое**                                                                                                                                                                                                          | **<div align="center">-</div>**                                                                                                                                                                                                 | **<div align="center">-</div>**                                                                                                                                                  |
-| <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>                                         | **<div align="center">×</div>**                                                                                                                                                                                                 | **<div align="center">×</div>**                                                                                                                                                  |
-| **Работа с Git**                                                                                                                                                                                                    | **<div align="center">-</div>**                                                                                                                                                                                                 | **<div align="center">-</div>**                                                                                                                                                  |
-| <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>                                                   | <a href="https://github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="45px" height="45px" style="background-color:#cccfff; border-radius: 20%;"></a> | <a href="https://desktop.github.com/download/" title="Github Dekstop"><img src="https://desktop.githubusercontent.com/app-icon.ico" alt="Github" width="50px" height="50px"></a> |
-| Редакторы кода                                                                                                                                                                                                      | **<div align="center">-</div>**                                                                                                                                                                                                 | **<div align="center">-</div>**                                                                                                                                                  |
-| <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a> | <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="PyCharm" width="50px" height="50px"></a>                                          | **<div align="center">×</div>**                                                                                                                                                  |
+| Технология:                 | Технология№1                                                                                                                                                                                                        | №2                                                                                                                                                                                                                                                                                                                                  | №3                                                                                                                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h4>Пакетные менеджеры</h4> | <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="50px" height="50px"></a>                                                      | <a href="https://pnpm.io" title="pnpm"><picture> <source media="(prefers-color-scheme: dark)" srcset="https://pnpm.io/assets/images/pnpm-light-477811893d2e1c4ad4b10345c442282e.svg" width="50px" height="50px"> <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./assets/img/pnpm.svg" width="50px" height="50px"> </picture></a> | <a href="https://pypi.org" title="npm"><img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="pip" width="50px" height="50px"></a>                               |
+| <h4>Работа с Git</h4>       | <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>                                                   | <a href="https://github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="45px" height="45px" style="background-color:#cccfff; border-radius: 20%;"></a>                                                                                                     | <a href="https://desktop.github.com/download/" title="Github Dekstop"><img src="https://desktop.githubusercontent.com/app-icon.ico" alt="Github" width="50px" height="50px"></a> |
+| <h4>Редакторы кода</h4>     | <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a> | <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="PyCharm" width="50px" height="50px"></a>                                                                                                                                              | **<div align="center">-</div>**                                                                                                                                                  |
+| <h4>Другое</h4>             | <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>                                         | **<div align="center">-</div>**                                                                                                                                                                                                                                                                                                     | **<div align="center">-</div>**                                                                                                                                                  |
+
 
 
 
@@ -145,7 +143,7 @@ Russian
 
 ---
 
-<div>
+<div align="center">
 
 ![banner](./assets/img/TheVoid.TALL.jpg.png)
 
