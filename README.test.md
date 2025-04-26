@@ -41,8 +41,6 @@ Russian
 | <a href="https://vk.com/fockusty" title="VK"><img  src="./assets/img/vk.svg" alt="VK" width="50px" height="50px"></a>                                                                     | <a href="https://t.me/BottomlessHat" title="Telegram"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px"></a>               |
 
 
-<hr>
-
 <h3>Статы</h3>
 
 <div>
@@ -53,15 +51,12 @@ Russian
 
 </div>
 
-<hr>
-
 <h3>Топ языков</h3>
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<hr>
 
 <h3>Стрик</h3>
 <div>
