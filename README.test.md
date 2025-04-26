@@ -13,7 +13,7 @@ Russian
 
 </span>
 
-<h2>Обо мне</h2>
+<h2 align="center">Обо мне</h2>
 <p text-align="center">
     <span>
         Меня зовут ?????, на август 2024 года мне 15 лет. Почему я начал изучать программирование? Всё просто, я просто начал, по приколу, да, вот такой вот я
@@ -32,7 +32,7 @@ Russian
     </span>
 </p>
 
-<h3>Социальные сети</h3>
+<h3 align="left">Социальные сети</h3>
 
 | The Void                                                                                                                                                                                  | Bottomless Hat                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,10 +40,9 @@ Russian
 | Vk (FOCKUSTY)                                                                                                                                                                             | Telegram                                                                                                                                                                                        |
 | <a href="https://vk.com/fockusty" title="VK"><img  src="./assets/img/vk.svg" alt="VK" width="50px" ></a>                                                                     | <a href="https://t.me/BottomlessHat" title="Telegram"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" ></a>               |
 
+<h3 align="right">Статы</h3>
 
-<h3>Статы</h3>
-
-<div align="center">
+<div align="right">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
@@ -51,15 +50,15 @@ Russian
 
 </div>
 
-<h3 align="center">Топ языков</h3>
-<div align="center">
+<h3 align="left">Топ языков</h3>
+<div align="left">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)
 
 </div>
 
-<h3 align="center">Стрик</h3>
-<div align="center">
+<h3 align="right">Стрик</h3>
+<div align="right">
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)
 
