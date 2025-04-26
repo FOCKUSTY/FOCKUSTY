@@ -69,6 +69,9 @@ Russian
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 </div>
+
+---
+
 <h2>Скилы</h2>
 
 <h3>Языки программирования</h3>
@@ -145,57 +148,7 @@ Russian
 | <a href="https://vk.com/" title="VK"><img src="./assets/img/vk.svg" alt="VK" width="50px" height="50px"></a>                                                                     | Я тут слушаю музыку, давайте со мной                                                                   |
 | <a href="https://www.whatsapp.com/" title="WhatsApp"><img src="https://github.com/get-icon/geticon/raw/master/icons/whatsapp.svg" alt="WhatsApp" width="50px" height="50px"></a> | Ну... иногда захожу...                                                                                 |
 
-<h3>Бэк</h3>
-<div>
-    <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="50px" height="50px" background-color="#555"></a>
-    <a href="https://nestjs.com/" title="NestJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="NestJS" width="50px" height="50px"></a>
-</div>
-
-<h3>Изучал/Изучаю:</h3>
-<div>
-    <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="50px" height="50px"></a>
-    <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="50px" height="50px"></a>
-    <a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="50px" height="50px"></a>
-    <a href="https://www.w3.org/TR/websockets/" title="WebSocket"><img src="https://github.com/get-icon/geticon/raw/master/icons/websocket.svg" alt="WebSocket" width="50px" height="50px"></a>
-</div>
-
-<h3>Гэйм-девелопмент:</h3>
-<div>
-    <a href="https://csharp.net/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px"></a>
-    <a href="https://unity3d.com/" title="Unity"><img src="https://github.com/get-icon/geticon/raw/master/icons/unity.svg" alt="Unity" width="50px" height="50px"></a>
-</div>
-
-<h3>Базы данных:</h3>
-<div>
-    <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="50px" height="50px"></a>
-</div>
-
-<h3>Социальные сети:</h3>
-<div>
-    <a href="https://discordapp.com/" title="Discord"><img src="https://github.com/get-icon/geticon/raw/master/icons/discord.svg" alt="Discord" width="50px" height="50px"></a>
-    <a href="https://telegram.org/" title="Telegram"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="Telegram" width="50px" height="50px"></a>
-    <a href="https://www.whatsapp.com/" title="WhatsApp"><img src="https://github.com/get-icon/geticon/raw/master/icons/whatsapp.svg" alt="WhatsApp" width="50px" height="50px"></a>
-    <a href="https://vk.com/" title="VK"><img src="./assets/img/vk.svg" alt="VK" width="50px" height="50px"></a>
-</div>
-
-<h3>Деплоинг:</h3>
-<div>
-    <a href="https://www.netlify.com/" title="Netlify"><img src="https://github.com/get-icon/geticon/raw/master/icons/netlify.svg" alt="Netlify" width="50px" height="50px"></a>
-</div>
-
-<h3>Дополнительно:</h3>
-<div>
-    <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>
-    <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="50px" height="50px"></a>
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
-</div>
-
-<h3>В будущем:</h3>
-<div>
-    <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="50px" height="50px"></a>
-</div>
-
-<hr>
+---
 
 <div>
 
