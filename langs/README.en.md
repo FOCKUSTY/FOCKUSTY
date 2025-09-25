@@ -45,8 +45,8 @@ English
 
 <div align="right">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api?username=fockusty&show_icons=true&theme=transparent)
 
 </div>
@@ -54,14 +54,14 @@ English
 <h3 align="left">Top langs</h3>
 <div align="left">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=transparent)
 
 </div>
 
 <h3 align="right">Streak</h3>
 <div align="right">
 
-![](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=dark&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)
+![](https://github-readme-streak-stats.herokuapp.com?user=FOCKUSTY&theme=transparent&hide_border=true&border_radius=20&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)
 
 </div>
 
