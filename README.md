@@ -65,12 +65,12 @@ Russian
 
 ---
 
-<h2>Любимые репозитории</h2>
+<h2>Любимые проекты</h2>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=logger)
-![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=the-voidy)
-![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=fockusty-info)
-![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=dashboard)
+![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=logger&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=TheVoidy&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=fockusty-info&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=dashboard&theme=transparent)
 
 <h2>Скилы</h2>
 
