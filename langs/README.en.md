@@ -153,6 +153,6 @@ English
 
 <div align="center">
 
-![banner](./assets/img/TheVoid.TALL.jpg.png)
+![banner](../assets/img/TheVoid.TALL.jpg.png)
 
 </div>
