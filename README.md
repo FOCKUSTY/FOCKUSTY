@@ -45,7 +45,7 @@ Russian
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOCKUSTY&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=fockusty&show_icons=true&theme=dark)
 
 </div>
 
