@@ -73,10 +73,13 @@ Russian
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=logger&theme=transparent)
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=TheVoidy&theme=transparent)
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=fockusty-info&theme=transparent)
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=dashboard&theme=transparent)
-    
+
 </div>
 
 <h2>Скилы</h2>
