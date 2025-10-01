@@ -53,8 +53,6 @@ Russian
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=transparent)
 
-<br/>
-
 ![](https://github-readme-stats.vercel.app/api?username=fockusty&show_icons=true&theme=transparent)
 
 </div>
