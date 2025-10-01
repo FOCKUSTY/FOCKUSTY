@@ -45,14 +45,14 @@ Russian
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=transparent)
-![](https://github-readme-stats.vercel.app/api?username=fockusty&show_icons=true&theme=transparent)
 
 </div>
 
-<h3 align="left">Топ языков</h3>
+<h3 align="left">Другие статы</h3>
 <div align="left">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=fockusty&show_icons=true&theme=transparent)
 
 </div>
 
