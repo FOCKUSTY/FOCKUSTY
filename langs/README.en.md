@@ -47,14 +47,15 @@ English
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FOCKUSTY&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOCKUSTY&theme=transparent)
-![](https://github-readme-stats.vercel.app/api?username=fockusty&show_icons=true&theme=transparent)
 
 </div>
 
-<h3 align="left">Top langs</h3>
+<h3 align="left">Other stats</h3>
 <div align="left">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FOCKUSTY&layout=compact&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api?username=fockusty&show_icons=true&theme=transparent)
 
 </div>
 
@@ -72,10 +73,13 @@ English
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=logger&theme=transparent)
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=TheVoidy&theme=transparent)
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=fockusty-info&theme=transparent)
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=fockusty&repo=dashboard&theme=transparent)
-    
+
 </div>
 
 <h2>Skills</h2>
