@@ -53,19 +53,19 @@
 **Стек:** NestJS, TypeScript, MongoDB, Passport, Docker, Swagger  
 **Описание:** Модульная бэкенд-архитектура с аутентификацией, мониторингом, документацией и генерацией кода.  
 **Особенности:** Модульная система аутентизации (Google OAuth 2.0), мониторинг ошибок (Sentry), автоматическая Swagger-документация, кастомные CLI-инструменты.  
-**[→ Смотреть репозиторий](https://github.com/FOCKUSTY/BAD-template)**
+**[→ Смотреть репозиторий](https://github.com/Lazy-And-Focused/BAD-template)**
 
 ### **Real-time мессенджер** - Full-Stack приложение
 **Стек:** Next.js 14, Socket.io, NestJS, Tailwind, MongoDB  
 **Описание:** Платформа для обмена сообщениями в реальном времени с личными/групповыми чатами, WebSocket-соединениями и оптимизированным рендерингом.  
 **Особенности:** Живой обмен сообщениями, авторизация через Google, пагинация сообщений, ленивая загрузка, адаптивный интерфейс.  
-**[→ Фронтенд](https://github.com/FOCKUSTY/tvc-chat) | [→ Бэкенд](https://github.com/FOCKUSTY/tvc-api)**
+**[→ Фронтенд](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/frontend) | [→ Бэкенд](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/backend)**
 
 ### **Кастомный UI-кит** - Библиотека компонентов
 **Стек:** React, TypeScript, Storybook, Vite, Tailwind  
 **Описание:** Библиотека переиспользуемых компонентов с подробной документацией.  
 **Цель:** Стандартизация дизайна между проектами, ускорение разработки и улучшение UX.  
-**[→ Смотреть репозиторий](https://github.com/FOCKUSTY/ui-kit)**
+**[→ Смотреть репозиторий](https://github.com/The-Void-Community/tvuikit)**
 
 ### **Инструменты разработчика и библиотеки**
 - **fouter** - Декларативное описание HTTP-API с генерацией TypeScript-типов
