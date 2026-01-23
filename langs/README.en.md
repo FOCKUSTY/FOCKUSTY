@@ -53,19 +53,19 @@ Passionate frontend developer specializing in modern web technologies with a str
 **Stack:** NestJS, TypeScript, MongoDB, Passport, Docker, Swagger  
 **Description:** Modular backend architecture with authentication, monitoring, documentation, and code generation.  
 **Features:** Modular auth system (Google OAuth 2.0), error monitoring (Sentry), auto-generated Swagger, custom CLI tools.  
-**[→ View Repository](https://github.com/FOCKUSTY/BAD-template)**
+**[→ View Repository](https://github.com/Lazy-And-Focused/BAD-template)**
 
 ### **Real-time Chat Application** - Full-Stack Messenger
 **Stack:** Next.js 14, Socket.io, NestJS, Tailwind, MongoDB  
 **Description:** Real-time messaging platform with personal/group chats, WebSocket connections, and optimized rendering.  
 **Features:** Live messaging, Google auth, message pagination, lazy loading, responsive UI.  
-**[→ Frontend](https://github.com/FOCKUSTY/tvc-chat) | [→ Backend](https://github.com/FOCKUSTY/tvc-api)**
+**[→ Frontend](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/frontend) | [→ Backend](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/backend)**
 
 ### **Custom UI Kit** - Component Library
 **Stack:** React, TypeScript, Storybook, Vite, Tailwind  
 **Description:** Reusable component library with comprehensive documentation.  
 **Purpose:** Standardize design across projects, improve development speed and UX consistency.  
-**[→ View Repository](https://github.com/FOCKUSTY/ui-kit)**
+**[→ View Repository](https://github.com/The-Void-Community/tvuikit)**
 
 ### **Developer Tools & Libraries**
 - **fouter** - Declarative HTTP-API description with TypeScript generation
