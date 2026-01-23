@@ -1,10 +1,10 @@
-<h1 align="center">Frontend Developer | Focus on High-Load Applications</h1>
+<h1 align="center">Full-stack Developer</h1>
 
 <div align="center">
 
-![banner](./assets/img/TheVoid.Banner.png)
+![banner](../assets/img/TheVoid.Banner.png)
 
-[Русский](./README.md) | [English](./langs/README.en.md)
+[Русский](../README.md) | English
 
 </div>
 
