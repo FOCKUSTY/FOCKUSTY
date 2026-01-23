@@ -102,7 +102,7 @@ Passionate frontend developer specializing in modern web technologies with a str
 | **Telegram** | [@fockusty](https://t.me/fockusty) | Primary communication |
 | **VK** | [fockusty](https://vk.com/fockusty) | Social network |
 | **Discord** | `#FOCKUSTY` | Gaming & community |
-| **Bluesky** | [@fockusty](https://bsky.app/profile/fockusty.bsky.social) | Tech discussions |
+| **Bluesky** | [@fockusty](https://bsky.app/profile/fockusty.laf-team.ru) | Tech discussions |
 
 </div>
 
