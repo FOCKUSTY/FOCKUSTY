@@ -1,4 +1,4 @@
-<h1 align="center">Фулл-стек разработчик | Фокус на высоконагруженные приложения</h1>
+<h1 align="center">Backend-разработчик (Full Stack) | Фокус на высоконагруженные системы</h1>
 
 <div align="center">
 
@@ -8,76 +8,90 @@
 
 </div>
 
-## 👨‍💻 Обо мне
+## Обо мне
 
-Увлеченный фронтенд-разработчик, специализируюсь на современных веб-технологиях с акцентом на оптимизацию производительности и приложения реального времени. Подхожу к разработке как к сочетанию искусства и инженерии, постоянно изучаю новые инструменты и архитектурные подходы.
+Увлечённый backend-разработчик с опытом построения отказоустойчивых и масштабируемых серверных приложений. Глубоко погружён в архитектуру API, оптимизацию баз данных, асинхронную обработку и DevOps-практики. При этом имею сильные компетенции во фронтенд-разработке, что позволяет мне эффективно выстраивать взаимодействие между клиентом и сервером и создавать полноценные full-stack решения.
 
-**Текущий фокус:** Высоконагруженные приложения, оптимизация производительности (SSR/SSG, кэширование), real-time технологии, масштабируемые фронтенд-архитектуры.
+**Текущий фокус:** Высоконагруженные распределённые системы, микросервисная архитектура, оптимизация запросов к БД, real-time взаимодействие (WebSocket, Message Queues), мониторинг и observability.
 
 ---
 
-## 🛠 Стек технологий и инструменты
+## Стек технологий и инструменты
 
-### **Языки и платформы**
+### Языки и платформы
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Фронтенд**
+### Бэкенд-фреймворки
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Базы данных и очереди
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Фронтенд
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### **Бэкенд**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### **Базы данных**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Инструменты и DevOps**
+### Инструменты разработки и DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
+### Мониторинг и observability
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
 ---
 
-## 🚀 Ключевые проекты
+## Ключевые проекты
 
-### **BAD Architecture** - Продакшен-готовый шаблон на NestJS
-**Стек:** NestJS, TypeScript, MongoDB, Passport, Docker, Swagger  
-**Описание:** Модульная бэкенд-архитектура с аутентификацией, мониторингом, документацией и генерацией кода.  
-**Особенности:** Модульная система аутентизации (Google OAuth 2.0), мониторинг ошибок (Sentry), автоматическая Swagger-документация, кастомные CLI-инструменты.  
-**[→ Смотреть репозиторий](https://github.com/Lazy-And-Focused/BAD-template)**
+### BAD Architecture – Продакшен-готовый шаблон для NestJS  
+**Стек:** NestJS, TypeScript, MongoDB/PostgreSQL, Passport.js, Docker, Swagger, Sentry  
+**Описание:** Модульная бэкенд-архитектура с готовой системой аутентификации (OAuth 2.0, JWT), централизованной обработкой ошибок, строгой типизацией, валидацией окружения и автоматической документацией API. Включает кастомный CLI для генерации кода и best practices для построения масштабируемых приложений.  
+**Роль:** Архитектор и основной разработчик.  
+[→ Репозиторий](https://github.com/Lazy-And-Focused/BAD-template)
 
-### **Real-time мессенджер** - Full-Stack приложение
-**Стек:** Next.js 14, Socket.io, NestJS, Tailwind, MongoDB  
-**Описание:** Платформа для обмена сообщениями в реальном времени с личными/групповыми чатами, WebSocket-соединениями и оптимизированным рендерингом.  
-**Особенности:** Живой обмен сообщениями, авторизация через Google, пагинация сообщений, ленивая загрузка, адаптивный интерфейс.  
-**[→ Фронтенд](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/frontend) | [→ Бэкенд](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/backend)**
+### Real-time мессенджер – Полноценное full-stack приложение  
+**Стек:** NestJS, Socket.io, PostgreSQL, Redis, Next.js, Tailwind  
+**Описание:** Серверная часть мессенджера с поддержкой личных и групповых чатов, доставкой сообщений в реальном времени, управлением сессиями и очередями задач. Реализована пагинация сообщений, кэширование (Redis), авторизация через Google OAuth 2.0 и JWT.  
+**Роль:** Разработка бэкенда, проектирование API, интеграция WebSocket.  
+[→ Бэкенд](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/backend) | [→ Фронтенд](https://github.com/The-Void-Community/tvc-hat/tree/main/apps/frontend)
 
-### **Кастомный UI-кит** - Библиотека компонентов
+### Кастомный UI-кит – Библиотека компонентов  
 **Стек:** React, TypeScript, Storybook, Vite, Tailwind  
-**Описание:** Библиотека переиспользуемых компонентов с подробной документацией.  
-**Цель:** Стандартизация дизайна между проектами, ускорение разработки и улучшение UX.  
-**[→ Смотреть репозиторий](https://github.com/The-Void-Community/tvuikit)**
+**Описание:** Библиотека переиспользуемых компонентов с подробной документацией. Стандартизирует дизайн между проектами, ускоряет разработку и улучшает UX.  
+**Роль:** Автор и архитектор UI-кита.  
+[→ Репозиторий](https://github.com/The-Void-Community/tvuikit)
 
-### **Инструменты разработчика и библиотеки**
-- **fouter** - Декларативное описание HTTP-API с генерацией TypeScript-типов
-- **fbit-field** - TypeScript-библиотека для эффективной работы с битовыми полями
-- **fock-logger** - Продвинутая библиотека для логирования в Node.js-приложениях
-- **passworder** - Шифрованный менеджер паролей с CLI-интерфейсом
+### Инструменты и библиотеки для Node.js
 
-**[Смотреть все репозитории →](https://github.com/FOCKUSTY?tab=repositories)**
+- **fock-logger** – продвинутая библиотека для структурированного логирования в Node.js-приложениях. Поддерживает multiple транспорты, уровни логирования, форматы (JSON, pretty), интеграцию с Sentry.  
+  [→ Репозиторий](https://github.com/FOCKUSTY/fock-logger)
+
+- **passworder** – CLI-менеджер паролей с шифрованием на базе Node.js. Позволяет безопасно хранить и извлекать пароли, используя мастер-пароль и современные криптоалгоритмы.  
+  [→ Репозиторий](https://github.com/FOCKUSTY/passworder)
+
+- **fouter** – декларативное описание HTTP-API с автоматической генерацией TypeScript-типов для клиента и сервера. Упрощает поддержку type-safety между бэкендом и фронтендом.  
+  [→ Репозиторий](https://github.com/FOCKUSTY/fouter)
+
+- **fbit-field** – TypeScript-библиотека для эффективной работы с битовыми полями (полезно для низкоуровневых оптимизаций и работы с флагами).  
+  [→ Репозиторий](https://github.com/FOCKUSTY/fbit-field)
+
+[Все репозитории →](https://github.com/FOCKUSTY?tab=repositories)
 
 ---
 
-## 📊 Статистика GitHub
+## Статистика GitHub
 
 <div align="center">
 
@@ -93,7 +107,7 @@
 
 ---
 
-## 📫 Связь со мной
+## Связь со мной
 
 <div align="center">
 
@@ -108,13 +122,11 @@
 
 ---
 
-## 🎯 В поиске
+## В поиске
 
-- **Стажировки/младшей позиции** как Frontend или Fullstack разработчик
-- **Коллаборации** над интересными open-source проектами
-- **Возможностей** работать над высоконагруженными или real-time приложениями
-
-> *"Код похож на юмор. Когда вам нужно его объяснять, он плох." – Кори Хаус*
+- Стажировки/младшей позиции как Backend или Fullstack-разработчик (с фокусом на бэкенд)
+- Коллаборации над open-source проектами, связанными с бэкенд-инфраструктурой, базами данных, highload, а также над full-stack приложениями
+- Возможностей поработать над распределёнными системами, real-time приложениями или сервисами с высокой нагрузкой
 
 <div align="center">
 
